@@ -1,7 +1,7 @@
 package test2Repo;
 
 public class TestTest {
-<<<<<<< HEAD
+ 
 
  
 	public void test1conflict999( ) {

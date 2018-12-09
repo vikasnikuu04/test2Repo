@@ -1,7 +1,11 @@
 package test2Repo;
 
 public class TestTest {
-	public static void main(String[] args) {
-		System.out.println("TestTest");
+	public void test1conflict( ) {
+		System.out.println("test1conflict");
+		System.out.println("test1conflict");
+ 
+		
+		
 	}
 }
